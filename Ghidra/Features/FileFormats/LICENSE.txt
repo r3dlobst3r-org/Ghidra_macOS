@@ -12,12 +12,12 @@ BSD:
 
 Apache License 2.0:
 
-	src/main/java/ghidra/file/formats/sparseimage/SparseImageDecompressor.java
+	src/main/java/ghidra/file/formats/android/dex/util/Leb128.java
+	src/main/java/ghidra/file/formats/android/xml/AndroidXmlConvertor.java
 	src/main/java/ghidra/file/formats/sparseimage/ChunkHeader.java
 	src/main/java/ghidra/file/formats/sparseimage/SparseConstants.java
 	src/main/java/ghidra/file/formats/sparseimage/SparseHeader.java
-	src/main/java/ghidra/file/formats/android/xml/AndroidXmlConvertor.java
-	src/main/java/ghidra/file/formats/android/dex/util/Leb128.java
+	src/main/java/ghidra/file/formats/sparseimage/SparseImageDecompressor.java
 	lib/baksmali-1.4.0.jar
 	lib/sevenzipjbinding-9.20-2.00beta.jar
 	lib/AXMLPrinter2.jar

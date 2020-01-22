@@ -8,16 +8,16 @@ The 3rd party files in this module are as follows:
 
 Oxygen Icons - LGPL 3.0:
 
-	src/main/resources/images/flag.png
 	src/main/resources/images/dialog-cancel.png
 	src/main/resources/images/emblem-important.png
+	src/main/resources/images/flag.png
 
 Nuvola Icons - LGPL 2.1:
 
-	src/main/resources/images/core24.png
-	src/main/resources/images/kgpg.png
-	src/main/resources/images/error.png
 	src/main/resources/images/core.png
+	src/main/resources/images/core24.png
+	src/main/resources/images/error.png
+	src/main/resources/images/kgpg.png
 
 Apache License 2.0:
 
@@ -31,15 +31,15 @@ Apache License 2.0:
 
 Crystal Clear Icons - LGPL 2.1:
 
-	src/main/resources/images/reload3.png
 	src/main/resources/images/exec.png
+	src/main/resources/images/reload3.png
 
 MIT:
 
-	src/main/java/generic/json/JSONType.java
-	src/main/java/generic/json/JSONToken.java
 	src/main/java/generic/json/JSONError.java
 	src/main/java/generic/json/JSONParser.java
+	src/main/java/generic/json/JSONToken.java
+	src/main/java/generic/json/JSONType.java
 
 FAMFAMFAM Icons - CC 2.5:
 
@@ -47,18 +47,19 @@ FAMFAMFAM Icons - CC 2.5:
 
 Modified Nuvola Icons - LGPL 2.1:
 
-	src/main/resources/images/openSmallFolder.png
 	src/main/resources/images/openFolder.png
+	src/main/resources/images/openSmallFolder.png
 
 Tango Icons - Public Domain:
 
-	src/main/resources/images/internet-web-browser16.png
 	src/main/resources/images/applications-multimedia16.png
-	src/main/resources/images/software-update-urgent.png
-	src/main/resources/images/network-receive16.png
 	src/main/resources/images/face-monkey16.png
-	src/main/resources/images/video-x-generic16.png
+	src/main/resources/images/help-browser.png
+	src/main/resources/images/internet-web-browser16.png
+	src/main/resources/images/network-receive16.png
 	src/main/resources/images/process-stop.png
+	src/main/resources/images/software-update-urgent.png
+	src/main/resources/images/video-x-generic16.png
 
 JDOM License:
 
